@@ -17,7 +17,6 @@ expo-env.d.ts
 *.key
 *.mobileprovision
 
-temp_auto_push.bat
 # Metro
 .metro-health-check*
 
@@ -37,5 +36,3 @@ yarn-error.*
 *.tsbuildinfo
 
 app-example
-.gitignore
-branch_structure.json
